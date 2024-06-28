@@ -4,6 +4,7 @@ Tarea 1 -  Presentación del Proyecto en GitHub
 Una información nueva
 
 I.Elección del Problema (2 puntos):
+
 a.Seleccione una aplicación relevante para una industria (puede ser del listado de la lámina 12 de la sesión 01, o una propia).
 
 b.Identifique la categoría y el caso de uso correspondiente (Ver lámina 23 de la sesión 01).
