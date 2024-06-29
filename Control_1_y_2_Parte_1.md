@@ -51,7 +51,28 @@
 
 ### a. Identifique las decisiones clave, métricas y palancas relevantes para el problema seleccionado.
 
-*(Ingresar respuesta)*
+**<u>Desiciones clave para el Banco de acuerdo al score crediticio:</u>**
+- El límite de la máxima cantidad de dinero que se le otorgara a una persona en su tarjeta de crédito.
+
+- El monto máximo de monto de dinero de prestamo hipotecario,personal,automotriz y comercial que se le otorgara a un cliente.
+
+**<u>Las metricas que debe tomar en cuenta el Banco para tomar la decisión del credito:</u>**
+- Cantidad de cuentas de crédito pagadas a tiempo,atrasadas,las cuentas en cobranza y las que no se pagaron, considerando el monto del credito.
+
+- Ingresos mensuales, trimestrales, semestrales y anuales en las cuentas bancarias de la persona que desea adquirir un crédito en el banco.
+
+- Monto total de la deuda que tiene actualmente la persona y de forma historica ya sea de años anteriores de forma mensual, trimestral, semestral y anual. 
+
+- Proporción de crédito utilizado en comparación con el crédito disponible qur tiene actualmente.
+
+- Cantidad de créditos que tiene actualmente y de forma histórica, como tarjetas de crédito, préstamos hipotecarios, préstamos para automóviles y comerciales.
+
+**<u>Palancas relevantes:</u>**
+- Los préstamos hipotecarios se otorgan con base en el valor del inmueble como garantía, lo que reduce el riesgo para el banco y permite ofrecer tasas de interés más bajas y plazos más largos.
+
+- Los préstamos personales para la compra de vehiculos con el valor del vehiculo como grantía.
+
+- Los préstamos empresariales en el sector Telecomunicaciones, Mineras, Energía, Construcción e inmobiliarias, Metalmecánica, Agroindustria,Retail, Consumo Masivo y Pesqueria que necesitan conseguir bienes necesarios como maquinarias e insumos para sus operaciones sin realizar un desembolso inicial significativo, lo cual puede ser muy beneficioso para la gestión financiera y la planificación a largo plazo de pagos con intereses asequibles.
 
 ### b. Describa el papel de la incertidumbre y los resultados esperados.
 
