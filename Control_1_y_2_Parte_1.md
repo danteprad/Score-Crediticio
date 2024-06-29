@@ -118,7 +118,7 @@ Ante la incertidumbre presentadas e eventos inesperados que ocasionen que client
 
 **<u>Procesamiento de Datos</u>**
 
--Tratamiento de datos para prepararlos para el modelo, limpieza de datos, codificación de variables categóricas y creación de variables a partir de variables existentes.
+- Tratamiento de datos para prepararlos para el modelo, limpieza de datos, codificación de variables categóricas y creación de variables a partir de variables existentes.
 
 **<u>Selección de Modelo</u>**
 
@@ -126,7 +126,7 @@ En los Credit Scoring, se consideran el modelo de Árboles de Decisión y Ensamb
 
 **<u>Entrenamiento del Modelo</u>**
 
--Se procede a dividir la data procesada en grupo de entrenamiento y un grupo de prueba, con el fin de entrenar el modelo utilizando el grupo de entrenamiento.
+- Se procede a dividir la data procesada en grupo de entrenamiento y un grupo de prueba, con el fin de entrenar el modelo utilizando el grupo de entrenamiento.
 
 **<u>Evaluación de Modelo</u>**
 
@@ -134,7 +134,7 @@ En los Credit Scoring, se consideran el modelo de Árboles de Decisión y Ensamb
   
 **<u>Interpretabilidad del Modelo</u>**
 
--En el contexto de credit scoring, es crucial entender cómo el modelo toma decisiones. Herramientas como SHAP (Shapley Additive Explanations) pueden ayudar a explicar las predicciones del modelo.
+- En el contexto de credit scoring, es crucial entender cómo el modelo toma decisiones. Herramientas como SHAP (Shapley Additive Explanations) pueden ayudar a explicar las predicciones del modelo.
 
 **<u>Implementación y Monitoreo</u>**
 
