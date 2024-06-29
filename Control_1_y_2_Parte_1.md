@@ -148,7 +148,7 @@ Ante la incertidumbre presentadas e eventos inesperados que ocasionen que client
 
 ### b. Liste y responda las preguntas clave siguiendo el framework: ¿Qué?, ¿Y entonces qué?, ¿Y ahora qué?
 
-*(Ingresar respuesta)*
+*(Ingresar respuesta)* trial
 
 ### c. Considere las suposiciones necesarias y elija la métrica adecuada.
 
