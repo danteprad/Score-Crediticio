@@ -110,8 +110,36 @@ La incertidumbre en nuestro proyecto está definida como el riesgo de que un cli
 
 ### a. Proponga una solución de Machine Learning para el problema identificado.
 
-*(Ingresar respuesta)*
+Ante la incertidumbre presentadas e eventos inesperados que ocasionen que cliente no cumpla con los pagos pactados con el banco, se propone un modelo de Credit Scoring (Modelo seguimiento), un modelo de machine learning que determine la probabilidad que un cliente  sea propensos a caer en default o incumplimiento de pago. Para bordar con este problema, se considera este proceso:
 
+**<u>Recopilación de Datos</u>**
+
+- Recopilar información relevante para el análisis son: Información demográfica, historial de crediticio, Información financiera (ingresos, deudas activas) y datos de comportamiento de productos financieros del cliente.
+
+**<u>Procesamiento de Datos</u>**
+
+-Tratamiento de datos para prepararlos para el modelo, limpieza de datos, codificación de variables categóricas y creación de variables a partir de variables existentes.
+
+**<u>Selección de Modelo</u>**
+
+En los Credit Scoring, se consideran el modelo de Árboles de Decisión y Ensamblajes (Random Forest, Gradient Boosting) debido que maneja bien las características categóricas y las interacciones no lineales.
+
+**<u>Entrenamiento del Modelo</u>**
+
+-Se procede a dividir la data procesada en grupo de entrenamiento y un grupo de prueba, con el fin de entrenar el modelo utilizando el grupo de entrenamiento.
+
+**<u>Evaluación de Modelo</u>**
+
+- Usando el grupo de prueba, se usará métricas que evalúen el rendimiento del modelo. Por ejemplo: Exactitud, Precisión y Recall y AUC-ROC.
+  
+**<u>Interpretabilidad del Modelo</u>**
+
+-En el contexto de credit scoring, es crucial entender cómo el modelo toma decisiones. Herramientas como SHAP (Shapley Additive Explanations) pueden ayudar a explicar las predicciones del modelo.
+
+**<u>Implementación y Monitoreo</u>**
+
+- Implementar el modelo en un entorno de producción y monitorear su rendimiento en el tiempo. Asegurarse de que el modelo sigue siendo válido y actualizarlo regularmente con nuevos datos.
+  
 ![Scikit-learn algorithm cheat-sheet](https://miro.medium.com/v2/resize:fit:4244/format:webp/1*2NR51X0FDjLB13u4WdYc4g.png)
 
 <p align="center">
