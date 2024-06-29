@@ -122,7 +122,7 @@ Ante la incertidumbre presentadas e eventos inesperados que ocasionen que client
 
 **<u>Selección de Modelo</u>**
 
-En los Credit Scoring, se consideran el modelo de Árboles de Decisión y Ensamblajes (Random Forest, Gradient Boosting) debido que maneja bien las características categóricas y las interacciones no lineales.
+- En los Credit Scoring, se consideran el modelo de Árboles de Decisión y Ensamblajes (Random Forest, Gradient Boosting) debido que maneja bien las características categóricas y las interacciones no lineales.
 
 **<u>Entrenamiento del Modelo</u>**
 
