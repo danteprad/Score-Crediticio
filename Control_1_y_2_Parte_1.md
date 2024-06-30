@@ -154,7 +154,16 @@ Ante la incertidumbre presentadas e eventos inesperados que ocasionen que client
 
 ### c. Considere las suposiciones necesarias y elija la métrica adecuada.
 
-*(Ingresar respuesta)*
+*<u>Las suposiciones</u>*
+1.	Asumimos  que las variables utilizadas en el modelo de score crediticio para la nueva campaña propuesta son independientes: rentabilidad por cliente, costo de campaña por cliente, morosidad en el periodo entre otras.
+2.	Las variables siguen distribuciones específicas según el momento o periodo analizado.
+3.	Las relaciones entre las variables y el comportamiento crediticio de los individuos analizados son estables a lo largo del periodo semestral analizado.
+4.	Asumimos  que los riesgos asociados con diferentes niveles de score crediticio son proporcionales a las predicciones del modelo.
+
+*<u> Métrica Elegida:</u>*
+Necesitamos una métrica mesurable, procesable, relevante y oportuna, por lo cual elegimos :
+*Rentabilidad (Profit & Loss): * Porque evalúa cómo el modelo contribuye al rendimiento financiero de la institución, considerando el equilibrio entre riesgo y retorno.
+En esta primera etapa y después podremos ir incorporando otras sub métricas
 
 ### d. Estime el valor monetario incremental basado en las suposiciones y la acción o palanca implementada.
 
