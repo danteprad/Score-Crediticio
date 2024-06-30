@@ -24,7 +24,7 @@
 </tr>
 </table>
 
-*(Escribir una presentación del proyecto)*
+El presente proyecto plantea una propuesta de modelo de Score Crediticio (machine Learning) que incorpora mejoras de las metricas que actualmente tiene el banco. Esto permitirá una mejor identificación de los clientes que tienen mayor probabildad de caer en default y de aquellos que, con mayor certeza, cumpliran sus pagos de deuda.
 
 <table width='99%'>
 <tr>
@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-> ***"(Escribir objetivo del proyecto)"***
+Dirigir de manera focalizada las campañas de creditos y las propuestas de refinanciamiento.
 
 <table width='99%'>
 <tr>
@@ -68,18 +68,6 @@
 
 <pre>
 - Directorio raíz
-  |- Data
-  |  |- Archivo 1.1
-  |  |- Archivo 1.2
-  |
-  |- Resultados
-  |  |- Subdirectorio 2.1
-  |  |  |- Archivo 2.1.1
-  |  |  |- Archivo 2.1.2
-  |  |
-  |  |- Archivo 2.2
-  |
-  |- script.py
   |
   |- Control_1_y_2_Parte_1.md
   |
