@@ -17,9 +17,9 @@
 
 ### Resumen:
 
-|CATEGORÍA    |CASO DE USO  |DECISIÓN     |INCERTIDUMBRE   |RESULTADO    |
-|-------------|-------------|-------------|----------------|-------------|
-|(Respuesta)  |(Respuesta)  |(Respuesta)  |Riesgo de mora  |(Respuesta)  |
+|CATEGORÍA           |CASO DE USO                 |DECISIÓN     |INCERTIDUMBRE   |RESULTADO    |
+|--------------------|----------------------------|-------------|----------------|-------------|
+|Gestión de riesgos  |Modelo de Score crediticio  |(Respuesta)  |Riesgo de mora  |(Respuesta)  |
 
 <table width='99%'>
 <tr>
@@ -33,11 +33,12 @@
 
 ### a. Seleccione una aplicación relevante para una industria (puede ser del listado de la lámina 12 de la sesión 01, o una propia).
 
-*(Ingresar respuesta)*
+Modelo de Score crediticio
 
 ### b. Identifique la categoría y el caso de uso correspondiente (Ver lámina 23 de la sesión 01).
 
-*(Ingresar respuesta)*
+Categoría: Gestión de riesgos
+Caso de uso: Modelo de score crediticio
 
 <table width='99%'>
 <tr>
