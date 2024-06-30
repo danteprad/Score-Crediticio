@@ -182,13 +182,8 @@ Costo: 10*10%*5= 5
 
 
 |CONCEPTO                     |Valores en Soles |
-|-----------------------------|-----------------|
 |Costo de campaña sin modelo  |100              |
-|-----------------------------|-----------------|
 |Costo de campaña con modelo  |60               |
-|-----------------------------|-----------------|
 |Ahorro del nuevo modelo      |40               |
-|-----------------------------|-----------------|
 |Costo de falsos positivos    |5                |
-|-----------------------------|-----------------|
 |Costo de falsos negativos    |50               |
