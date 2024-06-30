@@ -17,9 +17,9 @@
 
 ### Resumen:
 
-|CATEGORÍA           |CASO DE USO                 |DECISIÓN     |INCERTIDUMBRE   |RESULTADO    |
-|--------------------|----------------------------|-------------|----------------|-------------|
-|Gestión de riesgos  |Modelo de Score crediticio  |(Respuesta)  |Riesgo de mora  |(Respuesta)  |
+|CATEGORÍA           |CASO DE USO                 |DECISIÓN                                |INCERTIDUMBRE   |RESULTADO                                                                                              |
+|--------------------|----------------------------|----------------------------------------|----------------|-------------------------------------------------------------------------------------------------------|
+|Gestión de riesgos  |Modelo de Score crediticio  |Otorgar un refinanciamiento a la deuda  |Riesgo de mora  |Incremento de ingresos debido a que se incremento la cantidad de cliente con refinanciamiento de duda  |
 
 <table width='99%'>
 <tr>
@@ -159,11 +159,11 @@ En nuestra empresa, el score crediticio se mide utilizando un modelo basado en e
 
 •	Historial de pagos, cantidad adeudada, duración del historial de crédito, nuevo crédito, tipos de crédito utilizados.
 
-3. ¿Es esta la mejor manera de hacerlo?
+2. ¿Es esta la mejor manera de hacerlo?
 
 El uso del modelo FICO Score es ampliamente aceptado y utilizado en la industria, sin embargo, hay áreas de mejora.
 
-4. ¿Cuál es el impacto en las ganancias y pérdidas?
+3. ¿Cuál es el impacto en las ganancias y pérdidas?
    
 El score crediticio tiene un impacto significativo en las ganancias y pérdidas de la empresa:
 
@@ -215,7 +215,7 @@ El siguiente semestre
 
 ¿Marketing está listo para lanzarla?
 Está en proceso
-![image](https://github.com/danteprad/Score-Crediticio/assets/46639103/96d202c1-baf3-48ca-8e55-714138b2a8f1)
+
 
 
 ### c. Considere las suposiciones necesarias y elija la métrica adecuada.
@@ -229,7 +229,7 @@ Está en proceso
 **<u> Métrica Elegida:</u>**
 Necesitamos una métrica mesurable, procesable, relevante y oportuna, por lo cual elegimos :
 
-**Rentabilidad (Profit & Loss): ** Porque evalúa cómo el modelo contribuye al rendimiento financiero de la institución, considerando el equilibrio entre riesgo y retorno.
+**Rentabilidad (Profit & Loss):** Porque evalúa cómo el modelo contribuye al rendimiento financiero de la institución, considerando el equilibrio entre riesgo y retorno.
 
 En esta primera etapa y después podremos ir incorporando otras sub métricas
 
