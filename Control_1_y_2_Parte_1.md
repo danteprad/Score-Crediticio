@@ -57,6 +57,8 @@
 - El monto máximo de monto de dinero de prestamo hipotecario,personal,automotriz y comercial que se le otorgara a un cliente.
 
 **<u>Las metricas que debe tomar en cuenta el Banco para tomar la decisión del credito:</u>**
+- Consumos mensuales, trimestrales de dinero utilizado en tiendas de retail mediante tarjeta de credito para un cliente.
+
 - Cantidad de cuentas de crédito pagadas a tiempo,atrasadas,las cuentas en cobranza y las que no se pagaron, considerando el monto del credito.
 
 - Ingresos mensuales, trimestrales, semestrales y anuales en las cuentas bancarias de la persona que desea adquirir un crédito en el banco.
