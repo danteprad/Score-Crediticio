@@ -151,47 +151,72 @@ Ante la incertidumbre presentadas e eventos inesperados que ocasionen que client
 
 ### b. Liste y responda las preguntas clave siguiendo el framework: ¿Qué?, ¿Y entonces qué?, ¿Y ahora qué?
 
-Análisis del “Qué”
+
+**<u>Análisis del “Qué”</u>**
 1. ¿Cómo se mide el score crediticio en tu empresa?
+
 En nuestra empresa, el score crediticio se mide utilizando un modelo basado en el algoritmo FICO Score. Este modelo toma en cuenta los siguientes factores:
+
 •	Historial de pagos, cantidad adeudada, duración del historial de crédito, nuevo crédito, tipos de crédito utilizados.
-2. ¿Es esta la mejor manera de hacerlo?
+
+3. ¿Es esta la mejor manera de hacerlo?
+
 El uso del modelo FICO Score es ampliamente aceptado y utilizado en la industria, sin embargo, hay áreas de mejora.
-3. ¿Cuál es el impacto en las ganancias y pérdidas?
+
+4. ¿Cuál es el impacto en las ganancias y pérdidas?
+   
 El score crediticio tiene un impacto significativo en las ganancias y pérdidas de la empresa:
+
 •	Ganancias:
 o	Tasas de Interés: Clientes con puntajes más altos suelen recibir tasas de interés más bajas, lo que puede atraer más clientes de calidad.
+
 o	Productos Financieros: Ofrecimiento de productos financieros personalizados basados en el puntaje de crédito, incrementando la satisfacción y retención del cliente.
+
 •	Pérdidas:
+
 o	Moras y Default: Clientes con puntajes bajos tienen una mayor probabilidad de incurrir en mora o default, lo que aumenta las pérdidas por deudas incobrables.
+
 o	Costo de Recuperación: Gastos asociados a la recuperación de deudas, incluyendo acciones legales y agencias de cobranza.
 
-Análisis del “Entonces Qué”
+**<u>Análisis del “Entonces Qué”</u>**
 Acciones:
-•	Evaluación del Modelo FICO: Analizar el rendimiento del modelo FICO actual para identificar sus fortalezas y debilidades.
-•	Incorporación de Datos Adicionales: Considerar variables adicionales como datos transaccionales, incluidas transacciones de crédito y débito; pagos de alquiler y servicios públicos; datos de redes sociales; datos de comportamiento del sitio web, datos de encuesta o entrevista.
-•	Uso de Machine Learning: Implementar modelos de machine learning más avanzados, como Random Forest o Gradient Boosting, que puedan captar patrones complejos en los datos.
+
+- Evaluación del Modelo FICO: Analizar el rendimiento del modelo FICO actual para identificar sus fortalezas y debilidades.
+- Incorporación de Datos Adicionales: Considerar variables adicionales como datos transaccionales, incluidas transacciones de crédito y débito; pagos de alquiler y servicios públicos; datos de redes sociales; datos de comportamiento del sitio web, datos de encuesta o entrevista.
+- Uso de Machine Learning: Implementar modelos de machine learning más avanzados, como Random Forest o Gradient Boosting, que puedan captar patrones complejos en los datos.
+
 Impacto Esperado:
-•	Una evaluación más completa y precisa del riesgo crediticio de los clientes.
-•	Inclusión de factores relevantes que reflejen mejor la capacidad de pago de los clientes.
+
+- Una evaluación más completa y precisa del riesgo crediticio de los clientes
+- Inclusión de factores relevantes que reflejen mejor la capacidad de pago de los clientes.
+
 ¿Cómo se utilizará la puntuación (score crediticio)?
-•	Campaña de créditos para clientes que tengan mejor score crediticio
-•	Envío de notificaciones para el pago de cuotas
+
+- Campaña de créditos para clientes que tengan mejor score crediticio
+- Envío de notificaciones para el pago de cuotas
+
 Impacto Esperado:
-•	Aumento en la puntualidad de pagos y una reducción en la morosidad.
-•	Mejora en la relación cliente-empresa al proporcionar valor añadido a los clientes.
-Análisis del “Ahora Qué”
+
+- Aumento en la puntualidad de pagos y una reducción en la morosidad.
+- Mejora en la relación cliente-empresa al proporcionar valor añadido a los clientes.
+
+**<u>Análisis del “Ahora Qué”</u>**
 ¿Qué necesitas de cualquier persona en la empresa involucrada en el proceso de toma de decisiones y operativo?
 Información precisa y oportuna
+
 ¿Necesitas aprobación de Legal o Finanzas?
 Al menos uno de ellos
+
 ¿Producto está de acuerdo con el cambio propuesto?
 Sí
+
 ¿Cuándo se lanzará la campaña?
 El siguiente semestre
 
 ¿Marketing está listo para lanzarla?
 Está en proceso
+![image](https://github.com/danteprad/Score-Crediticio/assets/46639103/96d202c1-baf3-48ca-8e55-714138b2a8f1)
+
 
 ### c. Considere las suposiciones necesarias y elija la métrica adecuada.
 
